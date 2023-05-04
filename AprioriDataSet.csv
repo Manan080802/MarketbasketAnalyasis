@@ -1,0 +1,15 @@
+,,,,,,
+,Wine,Chips,Bread,Butter,Milk,Apple
+,Wine,NaN,Bread,Butter,Milk,NaN
+,NaN,NaN,Bread,Butter,Milk,NaN
+,NaN,Chips,NaN,NaN,NaN,Apple
+,Wine,Chips,Bread,Butter,Milk,Apple
+,Wine,Chips,Bread,Butter,Milk,Apple
+,NaN,Chips,Bread,Butter,Milk,Apple
+,Wine,Chips,NaN,Butter,Milk,Apple
+,Wine,NaN,Bread,Butter,Milk,Apple
+,Wine,Chips,Bread,NaN,Milk,Apple
+,NaN,NaN,NaN,NaN,Milk,Apple
+,Wine,Chips,NaN,NaN,Milk,Apple
+,Wine,Chips,Bread,Butter,NaN,NaN
+,Wine,Chips,Bread,Butter,Milk,Apple
